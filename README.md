@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://smartbook-lms.uc.r.appspot.com/
 
 ### About this project
-This project is created for online library. 
-Users can search books and medias and check them out. For librarians, they can add new books and check user's fines.
-For frontend, React is used and for the database, MySQL is used to structure the datas.
-The backend is set up using Django.
+This project is created for online library.<br />
+Users can search books and medias and check them out. For librarians, they can add new books and check user's fines.<br />
+For frontend, React is used and for the database, MySQL is used to structure the datas.<br />
+The backend is set up using Django.<br />
 
 ## Running Locally
 
