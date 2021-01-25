@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Publishd URL
+https://smartbook-lms.uc.r.appspot.com/
+
 ## Running Locally
 
 Follow these instructions in order to run the app locally
